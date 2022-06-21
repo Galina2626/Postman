@@ -1,15 +1,11 @@
-//EP_1
-//Method: GET
-//EndPoint: /get_method
-//Request url params: 
- //name: str
-<<<<<<< HEAD
- //age: int
-=======
-//age: int
->>>>>>> 2889351f6b19b965849476865af53adc86e8b950
+EP_1
+Method: GET
+EndPoint: /get_method
+Request url params: 
+name: str
+age: int
 
-//Response
+Response
 
 [
     "Galina",
