@@ -1,11 +1,11 @@
-EP_1
-Method: GET
-EndPoint: /get_method
-Request url params: 
- name: str
- age: int
+//EP_1
+//Method: GET
+//EndPoint: /get_method
+//Request url params: 
+ //name: str
+ //age: int
 
-Response
+//Response
 
 [
     "Galina",
