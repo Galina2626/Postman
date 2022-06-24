@@ -40,7 +40,9 @@
 				{
 					"listen": "test",
 					"script": {
-						"exec": [
+						"exec": [ // Статус код 200
+
+
 							"pm.test(\"Status code is 200\", function () {\r",
 							"    pm.response.to.have.status(200);\r",
 							"});\r",
