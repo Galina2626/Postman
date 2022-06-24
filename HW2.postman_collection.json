@@ -47,7 +47,8 @@
 							"    pm.response.to.have.status(200);\r",
 							"});\r",
 							"\r",
-							"\r",
+							"\r", //Спарсить response body в json.
+
 							"let responsData = pm.response.json();\r",
 							"\r",
 							"let user_name = responsData.name;\r",
